@@ -5,11 +5,14 @@
         <TargetFramework>net7.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
-        <Compile Include="src\Utils.fs"/>
-        <Content Include="src\Day01\input.txt"/>
-        <Compile Include="src\Day01\A.fs"/>
-        <Compile Include="src\Day01\B.fs"/>
-        <Compile Include="src\Program.fs"/>
+        <Compile Include="src\Utils.fs" />
+        <Content Include="src\Day01\input.txt" />
+        <Compile Include="src\Day01\A.fs" />
+        <Compile Include="src\Day01\B.fs" />
+        <Content Include="src\Day02\input.txt" />
+        <Compile Include="src\Day02\A.fs" />
+        <Compile Include="src\Day02\B.fs" />
+        <Compile Include="src\Program.fs" />
     </ItemGroup>
-    <Import Project=".paket\Paket.Restore.targets"/>
+    <Import Project=".paket\Paket.Restore.targets" />
 </Project>
