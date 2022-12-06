@@ -18,6 +18,9 @@
         <Content Include="src\Day04\input.txt" />
         <Compile Include="src\Day04\A.fs" />
         <Compile Include="src\Day04\B.fs" />
+        <Content Include="src\Day05\input.txt" />
+        <Compile Include="src\Day05\A.fs" />
+        <Compile Include="src\Day05\B.fs" />
         <Compile Include="src\Program.fs" />
     </ItemGroup>
     <Import Project=".paket\Paket.Restore.targets" />

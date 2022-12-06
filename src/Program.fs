@@ -10,4 +10,6 @@ let main args =
     printfn $"Day  3 B: {Day03.B.result}"
     printfn $"Day  4 A: {Day04.A.result}"
     printfn $"Day  4 B: {Day04.B.result}"
+    printfn $"Day  5 A: {Day05.A.result}"
+    printfn $"Day  5 B: {Day05.B.result}"
     0
