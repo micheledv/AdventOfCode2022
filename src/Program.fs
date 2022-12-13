@@ -14,5 +14,7 @@ let main args =
     printfn $"Day  5 B: {Day05.B.result}"
     printfn $"Day  6 A: {Day06.A.result}"
     printfn $"Day  6 B: {Day06.B.result}"
+    printfn $"Day  7 A: {Day07.A.result}"
+    printfn $"Day  7 B: {Day07.B.result}"
 
     0
